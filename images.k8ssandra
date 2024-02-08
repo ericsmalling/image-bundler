@@ -1,0 +1,5 @@
+cr.dtsx.io/datastax/cass-config-builder:1.0-ubi8
+cr.k8ssandra.io/k8ssandra/cass-management-api:4.0.1
+cr.k8ssandra.io/k8ssandra/cass-operator:v1.18.2
+cr.k8ssandra.io/k8ssandra/k8ssandra-operator:v1.12.0
+cr.k8ssandra.io/k8ssandra/system-logger:v1.18.2
