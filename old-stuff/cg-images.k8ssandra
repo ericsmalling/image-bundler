@@ -1,0 +1,7 @@
+cgr.dev/c3.ai/cass-config-builder-jre-bcfips:1-202402061050
+cgr.dev/c3.ai/management-api-for-apache-cassandra:latest-202402080443
+cgr.dev/c3.ai/c3-cass-operator-fips:1-202402020535
+cgr.dev/c3.ai/k8ssandra-operator-fips:1-202402051143
+cgr.dev/c3.ai/k8ssandra-system-logger-fips:latest-202401310213
+cgr.dev/c3.ai/cassandra-medusa-fips:0-202402080436
+docker.io/stargateio/stargate-4_0:v1.0.77

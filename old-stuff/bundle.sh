@@ -24,7 +24,3 @@ done < $FILE
 
 # tar up the contents of the temp directory without including the TIMESTAMP directory itself
 tar -C $TIMESTAMP -czf $FILE-bundle.tgz .
-
-# ask if the user wants to delete the temp directory, defaulting to yes
-read -p "Delete temp directory? [Y/n] " -n 1 -r
-echo

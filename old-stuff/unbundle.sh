@@ -23,7 +23,3 @@ for file in $TIMESTAMP/*; do
   echo "Loading $file"
   docker load -i $file
 done
-
-# ask if the user wants to delete the temp directory, defaulting to yes
-read -p "Delete temp directory? [Y/n] " -n 1 -r
-echo
