@@ -18,3 +18,5 @@ for EV in $ENV_VARS; do
 echo "export $EV"
 done
 echo su -c "$ENTRYPOINT" $USER_ID
+
+# above su command won'r work for containers that don't have su installed.
